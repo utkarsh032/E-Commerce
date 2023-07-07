@@ -1,0 +1,13 @@
+To create React app :  npx create-react-app ecommerce --template redux
+
+Adding Tailwind : npm install tailwind@latest
+
+Tailwind Dep:  npx tailwindcss init
+
+Dep : npm install @headlessui/react @heroicons/react
+
+Dep: npm install @tailwindcss/aspect-ratio
+
+Dep: npm install @tailwindcss/forms
+
+Router Library : npm i react-router-dom
